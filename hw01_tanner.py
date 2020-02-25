@@ -1,7 +1,4 @@
 '''
-CSC 372 Computer Vision
-Homework 1: Restoring the Russian Empire
-This is the starter code. Replace this with your better comments.
 Author: Jerrod Tanner
 Date: 20 February 2020
 '''
